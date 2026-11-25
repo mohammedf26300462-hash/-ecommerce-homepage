@@ -2,10 +2,10 @@
   color-scheme: light;
   --ink: #26352d;
   --muted: #68746b;
-  --paper: #f7f5ef;
+  --paper: #fbbf0a;
   --white: #fffefa;
   --sage: #dce5da;
-  --line: #e5e3db;
+  --line: #117744;
   --serif: "Playfair Display", Georgia, serif;
   --sans: "DM Sans", Arial, sans-serif;
 }
@@ -13,6 +13,7 @@
 
 {
   box-sizing: border-box;
+
 }
 
 
